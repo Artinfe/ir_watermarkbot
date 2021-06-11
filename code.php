@@ -1,6 +1,6 @@
 <?php
     
-    $bot_url = "https://api.telegram.org/bot1396293494:AAHdo2LxXap3nwM7yZtXgZqW3GyWPUey7hk";
+    $bot_url = "https://api.telegram.org/bot1732693214:AAEMpH9iBOmBA-WFC8Pc63mpo739S6vAoqU";
     
     $update = file_get_contents("php://input");
     
