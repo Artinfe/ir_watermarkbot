@@ -1,4 +1,10 @@
-git+https://github.com/farshidband3/code.php.git
-sphinx-rtd-theme==0.1.6
-sphinxcontrib-spelling
-pyenchant
+pyrogram
+TgCrypto
+hachoir
+Pillow
+humanfriendly
+motor
+aiofiles
+aiohttp
+dnspython
+psutil
